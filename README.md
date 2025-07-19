@@ -27,4 +27,5 @@ Build and configure a personal cybersecurity home lab that mimics a real-world e
 
 
 ## Lab Documentation
-<a href="https://github.com/nadiansh/Cybersecurity-Home-Lab-Environment/blob/main/nsh_tkh_p1_project_report.pdf">Cybersecurity Home Lab</a>
+<a href="https://github.com/nadiansh/Cybersecurity-Home-Lab-Environment/blob/main/nsh_tkh_p1_project_report.pdf">Cybersecurity
+Home Lab Documentation</a>
