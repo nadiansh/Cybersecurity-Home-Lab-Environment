@@ -22,12 +22,13 @@ Build and configure a personal cybersecurity home lab that mimics a real-world e
 - Snort (IDS/IPS plugin for pfSense)
 - Networking utilities: Nmap, Wireshark, Hydra
 
+
+## Lab Documentation
+
+<a href="https://github.com/nadiansh/Cybersecurity-Home-Lab-Environment/blob/main/nsh_tkh_p1_project_report.pdf">Cybersecurity
+Home Lab Documentation</a>
+
+
 ## Network Topology
 
 ![image alt](https://github.com/nadiansh/Cybersecurity-Home-Lab-Environment/blob/main/Network%20Topology.jpeg?raw=true)
-
-
-
-## Lab Documentation
-<a href="https://github.com/nadiansh/Cybersecurity-Home-Lab-Environment/blob/main/nsh_tkh_p1_project_report.pdf">Cybersecurity
-Home Lab Documentation</a>
