@@ -34,13 +34,14 @@ Home Lab Documentation</a>
 ![image alt](https://github.com/nadiansh/Cybersecurity-Home-Lab-Environment/blob/main/Network%20Topology-nadiansh.jpeg?raw=true)
 
 ## 
-![VirtualBox](https://img.shields.io/badge/VirtualBox-Oracle-blue?logo=virtualbox&logoColor=white)
+[![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
-![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analyzer-blue?logo=wireshark&logoColor=white)
-[![Metasploitable 2](https://img.shields.io/badge/Metasploitable-2-red?logo=metasploit&logoColor=white)](https://sourceforge.net/projects/metasploitable/)
-[![pfSense](https://img.shields.io/badge/pfSense-Firewall-blue?logo=fortinet&logoColor=white)](https://www.pfsense.org/)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)](#)
+[![Metasploitable](https://img.shields.io/badge/Metasploitable-4E4E4E?logo=metasploit&logoColor=white)](#)
+[![pfSense](https://img.shields.io/badge/pfSense-22426B?logo=fortinet&logoColor=white)](#)
+
 
 
 
