@@ -25,8 +25,9 @@
 
 📂 **Lab Documentation:**
 
-- <a href="https://github.com/nadiansh/Cybersecurity-Home-Lab-Environment/blob/main/nsh_tkh_p1_project_report.pdf">Cybersecurity
+- <a href="https://github.com/nadiansh/Cybersecurity-Home-Lab-Environment/blob/main/nsh_tkh_p1_project_report2.pdf">Cybersecurity
 Home Lab Documentation</a>
+
 
 
 ## Network Topology
